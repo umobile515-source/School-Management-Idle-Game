@@ -1,0 +1,7 @@
+{
+  "appId": "com.schooltycoon.idle",
+  "appName": "School Tycoon Idle",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "backgroundColor": "#0f172a"
+}
